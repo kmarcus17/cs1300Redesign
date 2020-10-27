@@ -1,0 +1,394 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+@media screen and (max-width: 820px){
+ h2{
+  padding-top: 1vw;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  /*margin: auto;*/
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+h3{
+  font-size: 4vw !important;
+}
+
+.row{
+  flex-direction: column !important;
+}
+#house{
+  width: 80% !important;
+  padding-bottom: 3vw !important;
+}
+
+p{
+  padding-top: 3vw !important;
+  font-size: 3vw !important;
+}
+
+h6{
+  padding-top: 206vw !important;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+.menupeak{
+  padding: 4vw;
+  display: flex ;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around !important;
+
+}
+
+li a{
+  font-size: 4vw !important;
+}
+.sandwich{
+    padding-right: 20px !important;
+}
+.row{
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+}
+
+
+#main{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  font-size: 3vw !important;
+  font-family: 'Domine', serif;
+}
+
+#description{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  padding: .4vw;
+  font-size: 1.7vw !important;
+  font-family: 'Domine', serif;
+}
+}
+
+@media screen and (max-width: 1400px) and (min-width: 900px){
+ h2{
+  padding-top: 1vw;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  /*margin: auto;*/
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+h3{
+  font-size: 4vw !important;
+}
+.row{
+  flex-direction: column !important;
+}
+
+#house{
+  width: 80% !important;
+  padding-bottom: 3vw !important;
+}
+
+p{
+  padding-top: 3vw !important;
+  font-size: 3vw !important;
+}
+
+li a{
+  font-size: 3vw !important;
+}
+
+h6{
+  padding-top: 203vw !important;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+.menupeak{
+  padding: 4vw;
+  display: flex ;
+  flex-direction: column !important;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around !important;
+
+}
+
+.sandwich{
+    padding-right: 80px !important;
+}
+.row{
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+}
+
+#main{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  font-size: 3vw !important;
+  font-family: 'Domine', serif;
+}
+
+#description{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  padding: .4vw;
+  font-size: 1.7vw !important;
+  font-family: 'Domine', serif;
+}
+}
+
+h1{
+  font-size: 7vw;
+  font-family: 'Domine', serif;
+  opacity: 1;
+}
+
+h2{
+  padding-top: 40vw;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  /*margin: auto;*/
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+
+h6{
+  padding-top: 144vw;
+  font-size: 11vw;
+  font-family: 'Domine', serif;
+  color: white;
+  position: absolute; 
+  text-align: center;
+  width: 100%;
+  height: 0%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 51;
+}
+
+h3{
+  font-size: 1.8vw;
+  font-family: 'Domine', serif;
+  padding-bottom: 1vw;
+  color: #7D7D7D;
+}
+
+h4{
+  
+  text-align: right;
+  font-size: 1.8vw;
+  color: black;
+  font-family: 'Domine', serif;
+  padding: 1vw;
+  padding-right: 2vw;
+}
+
+h4:hover{
+  text-decoration: underline;
+}
+
+h4:visited {
+  text-decoration: none;
+}
+
+h5{
+  font-size: 1.8vw;
+  font-family: 'Domine', serif;
+  padding-bottom: 1vw;
+  color: #7d7d7d;
+}
+
+p{
+  line-height: 1.6;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: 1vw;
+  padding-bottom: 2vw;
+  font-size: 1vw;
+  font-family: 'Domine', serif;
+}
+
+
+.homebar{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  padding-top: 2vw;
+  opacity: 0.90;
+  box-shadow: 0px 9px 10px -2px rgba(0,0,0,0.28);
+  z-index: 54;
+}
+
+
+menu{
+  display: flex;
+  flex-direction: column;
+}
+
+ul{
+  padding-top: 2vw;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 1vw;
+}
+
+#main{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  font-size: 1.2vw;
+  font-family: 'Domine', serif;
+}
+
+#description{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  padding: .4vw;
+  font-size: .9vw;
+  font-family: 'Domine', serif;
+}
+
+
+
+li a{
+  text-decoration: none;
+  color: black;
+  padding: 1vw;
+  font-size: 2vw;
+  font-family: 'Domine', serif;
+}
+
+li a:hover{
+  text-decoration: underline;
+}
+
+li a:active {
+  text-decoration: underline;
+}
+
+li a:visited {
+  text-decoration: none;
+}
+
+.info{
+  padding-top: 20vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.row{
+  padding: 1vw;
+  display: flex;
+  flex-direction: row;
+}
+
+.menupeak{
+  padding: 4vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.sandwich{
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.soup{
+  padding: 1vw;
+  display: flex;
+  flex-direction: column;
+}
+
+
+#burger{
+  
+  max-width: 100%;
+  height: auto;
+}
+
+#steak{
+  
+  max-width: 100%;
+  height: auto;
+}
+
+#map{
+  padding-top: 5vw;
+  width: 100%;
+  height: auto;
+}
+
+#house{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 21vw;
+  max-width: 100%;
+  height: auto;
+}
